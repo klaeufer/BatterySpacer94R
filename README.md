@@ -1,14 +1,27 @@
 # Overview
 
-3d CAD model for a battery spacer to allow installing a group 94R battery in place of a 24F or 27F one.
+3d CAD model for a battery height spacer to allow installing a shorter group 94R battery in place of a taller 24F or 27F one.
+
 
 # Motivation
 
-Why go with a 94R instead of the OEM group sizes 24F or 27F? 
+Pros and cons of installing a 94R instead of the OEM group sizes 24F or 27F.
+
+## Pros
 
 - 94R is widely available as an AGM battery *and much more affordable* compared to 27F.
-- In terms of capacity, it is a significant upgrade over 24F and comes close to 27F.
+- In terms of capacity, it is a significant upgrade over 24F and comes close to 27F. 
+  It usually provides the lowest cost per capacity.
 - It has the same size footprint as 27F and therefore fits in the battery compartment of the 4th-gen Toyota 4Runner (N210).
+
+## Cons
+
+- It has quite a bit less height (see below for details).
+  This requires bending back the tiny tooth on the body ground connector to allow rotating it downwards and securing the clamp to the terminal.
+- It has a narrower top with a gap for the folding handles.
+
+This spacer provides a longer, sufficiently wide bed for a flat hold-down bar intended for a 24F or 27F battery.
+The goal is to reduce movement and strain on the battery case.
 
 # Status
 
