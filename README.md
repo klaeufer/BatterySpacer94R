@@ -6,7 +6,7 @@
 
 Why go with a 94R instead of the OEM group sizes 24F or 27F? 
 
-- 94R is widely available as an AGM battery compared to 27F.
+- 94R is widely available as an AGM battery *and much more affordable* compared to 27F.
 - In terms of capacity, it is a significant upgrade over 24F and comes close to 27F.
 - It has the same size footprint as 27F and therefore fits in the battery compartment of the 4th-gen Toyota 4Runner (N210).
 
