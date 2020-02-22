@@ -1,0 +1,34 @@
+barWidth = 45;
+
+batteryTopWidth = 121;
+batteryBaseWidth = 175;
+batteryStepHeight = 25;
+batteryGapWidth = 12;
+batteryGapDepth = 5;
+
+sideHeight = 6;
+sideWidth = 4;
+sideLength = batteryBaseWidth;
+
+baseHeight = 6;
+baseWidth = barWidth + 2 * (sideWidth + 1);
+baseLength = batteryBaseWidth;
+
+stepHeight = batteryStepHeight;
+stepLength = (batteryBaseWidth - batteryTopWidth) / 2 - 1;
+
+guideWidth = batteryGapWidth - 1;
+guideHeight = batteryGapDepth - 1;
+
+union() {
+  cube(baseLength, baseHeight, baseWidth);
+  translate([0, baseHeight])
+    cube(stepLength, stepHeight, baseWidth);
+  translate([baseLength - stepLength, baseHeight])
+    cube(stepLength, stepHeight, baseWidth);
+  translate([stepLength, baseHeight, (baseWidth - guideWidth) / 2])
+    cube(baseLength - 2 * stepLength, guideHeight, guideWidth);
+  translate([0, -sideHeight, 0])
+  cube(sideLength, sideHeight, sideWidth);
+  translate([0, -sideHeight, baseWidth - sideWidth]) cube(sideLength, sideHeight, sideWidth);
+}
