@@ -2,8 +2,6 @@
 
 3d CAD model for a battery height spacer to allow installing a shorter group 94R battery in place of a taller 24F or 27F one.
 
-Pros and cons of installing a 94R instead of the OEM group sizes 24F or 27F.
-
 ## Pros
 
 - 94R is widely available as an AGM battery *and much more affordable* compared to 27F.
