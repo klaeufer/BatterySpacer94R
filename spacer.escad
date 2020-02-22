@@ -29,6 +29,7 @@ union() {
   translate([stepLength, baseHeight, (baseWidth - guideWidth) / 2])
     cube(baseLength - 2 * stepLength, guideHeight, guideWidth);
   translate([0, -sideHeight, 0])
-  cube(sideLength, sideHeight, sideWidth);
-  translate([0, -sideHeight, baseWidth - sideWidth]) cube(sideLength, sideHeight, sideWidth);
+    cube(sideLength, sideHeight, sideWidth);
+  translate([0, -sideHeight, baseWidth - sideWidth])
+    cube(sideLength, sideHeight, sideWidth);
 }
