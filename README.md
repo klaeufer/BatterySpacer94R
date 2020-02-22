@@ -1,6 +1,6 @@
 # Overview
 
-Battery spacer for using a group 94R battery in place of a 27F one.
+3d CAD model for a battery spacer to allow installing a group 94R battery in place of a 24F or 27F one.
 
 # Battery sizes
 
