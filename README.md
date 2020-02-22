@@ -19,6 +19,7 @@ Pros and cons of installing a 94R instead of the OEM group sizes 24F or 27F.
 - It has quite a bit less height (see below for details).
   This requires bending back the tiny tooth on the body ground connector to allow rotating it downwards and securing the clamp to the terminal.
 - It has a narrower top with a gap for the folding handles.
+  This is somewhat incompatible with the narrow factory steel hold-down bar.
 
 This spacer provides a longer, sufficiently wide bed for a flat hold-down bar intended for a 24F or 27F battery.
 The goal is to reduce movement and strain on the battery case.
