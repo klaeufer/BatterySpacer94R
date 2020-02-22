@@ -35,3 +35,9 @@ Battery spacer for using a group 94R battery in place of a 27F one.
 ********
     **
 ```
+
+# Tools used
+
+- [ImplicitCAD](http://www.implicitcad.org/) for programmatic CAD modeling
+- [MeshLab](http://www.meshlab.net/) for 3d mesh rendering
+- [Cura LulzBot Edition](https://www.lulzbot.com/cura) for printing
