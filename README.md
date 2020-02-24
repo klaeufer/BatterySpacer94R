@@ -12,7 +12,7 @@
 ## Cons
 
 - It has quite a bit less height (see below for details).
-  This requires bending back the tiny tooth on the body ground connector to allow rotating it downwards and securing the clamp to the terminal.
+  This requires bending back the tiny 90° tab on the body ground connector to allow rotating it downwards and securing the clamp to the terminal.
 - It has a narrower top with a gap for the folding handles.
   This is somewhat incompatible with the narrow factory steel hold-down bar.
 
