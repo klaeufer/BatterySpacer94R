@@ -19,7 +19,7 @@ baseWidth = barWidth + 2 * (sideWidth + gap);
 baseLength = sideLength;
 
 stepHeight = batteryStepHeight;
-stepLength = batteryStepLength - gap;
+stepLength = batteryStepLength - 2 * gap;
 
 guideWidth = batteryGapWidth - 2 * gap;
 guideHeight = batteryGapDepth - gap;
