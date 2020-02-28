@@ -22,7 +22,7 @@ The goal is to reduce movement and strain on the battery case.
 # Status
 
 - 3d model complete.
-- Prototype printed using ABS filament with scale factor on printer set to 108% and installed (see photo). 
+- Prototype printed using ABS filament with scale factor on printer set to 108% and installed (see [photo](https://photos.app.goo.gl/hcc8SSDQcif9n4Mt5)). 
 
 # Battery sizes
 
