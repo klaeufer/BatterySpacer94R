@@ -7,7 +7,7 @@
 - 94R is widely available as an AGM battery *and much more affordable* compared to 27F.
 - In terms of capacity, it is a significant upgrade over 24F and comes close to 27F. 
   It usually provides the lowest cost per capacity.
-- It has the same size footprint as 27F and therefore fits in the battery compartment of the 4th-gen Toyota 4Runner (N210).
+- It has the same size footprint as 27F and therefore fits in the battery compartment of the 4th-gen Toyota 4Runner (N210/N215).
 
 ## Cons
 
