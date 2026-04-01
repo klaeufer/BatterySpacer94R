@@ -13,7 +13,7 @@ batteryGapDepth = 5;
 sideHeight = 5;
 sideWidth = 8;
 sideLength = batteryBaseWidth;
-sideChamfer = 2;
+sideChamfer = 3;
 
 baseHeight = 6;
 baseWidth = barWidth + 2 * (sideWidth + gap);
@@ -24,7 +24,7 @@ stepLength = batteryStepLength - 2 * gap;
 
 guideWidth = batteryGapWidth - 2 * gap;
 guideHeight = batteryGapDepth - gap;
-guideChamfer = 2;
+guideChamfer = 3;
 
 union() {
   cube(baseLength, baseHeight, baseWidth);
